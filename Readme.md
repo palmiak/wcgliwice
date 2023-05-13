@@ -1,7 +1,7 @@
 # Astro warsztaty
 
 ## Co nam się przyda
-- [Oficjana stron Astro](https://astro.build)
+- [Oficjana strona Astro](https://astro.build)
 - [Dokumentacja](https://docs.astro.build)
 - API WP - https://kinstaapi.kinsta.cloud/wp-json/wp/v2/posts?_embed
 
